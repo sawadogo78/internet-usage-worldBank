@@ -4,7 +4,7 @@ Key features include: <br>
 📊 Bar Charts: <br>
 Average % of internet usage by region 
 <li>Average % of internet usage by income group
-<li></li>Both charts allow filtering by year for deeper insights. <br>
+<li>oth charts allow filtering by year for deeper insights. <br>
 📈 Line Chart: A comprehensive trend of global internet usage from 1960 to 2023, highlighting the internet's transformative growth. <br>
 
 Key takeaways:
